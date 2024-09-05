@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(143, 157, 170);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 100px;
+}
+
+h2{
+    text-align: center;
+}
+p{
+    line-height: 40px;
+    font-size: 40px;
+    text-align: justify;
+}
+
+#txt01{
+    color: brown;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+#txt02{
+    background-color: bisque;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+img{
+    height: 320px;
+    width: 320px;
+    border-radius: 20px;
+    margin-top: auto;
+}
